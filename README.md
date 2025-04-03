@@ -29,7 +29,7 @@
   
   ### Solved.ac
   <!-- solved.ac 프로필 -->
-  [<img src="http://mazassumnida.wtf/api/(v2 or mini)/generate_badge?boj=(jibb21)](https://solved.ac/(jibb21))">](http://mazassumnida.wtf/api/(v2 or mini)/generate_badge?boj=(백준닉네임))](https://solved.ac/(백준닉네임))
+  <img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=warm"/>
 
   ### Li
   <!--PyTorch-->
