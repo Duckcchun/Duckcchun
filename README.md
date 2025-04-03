@@ -17,9 +17,10 @@
   
   ## 🧱 Tech Stack
   ### Language
-  
   <!--C-->
   <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+  <!--C++-->
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <!--Java-->
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"> 
   <!--Python-->
@@ -69,11 +70,11 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://velog.io/@duckcchun">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=flat-square&logo&logo=velog&logoColor=white" />&nbsp
   </a>
   <a href="mailto:qasw1733@gmail.com">
     <img
-      src="https://img.shields.io/badge/qasw1733@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/qasw1733@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
 
