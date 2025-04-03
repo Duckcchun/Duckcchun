@@ -29,7 +29,7 @@
   
   ### Solved.ac
   <!-- solved.ac 프로필 -->
-  <img src="http://mazandi.herokuapp.com/api?handle={jibb21}&theme=warm"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=jibb21&theme=warm"/>
 
   ### Li
   <!--PyTorch-->
