@@ -73,7 +73,7 @@
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=flat-square&logo&logo=velog&logoColor=white" />&nbsp
   </a>
   <a href="mailto:qasw1733@gmail.com">
-   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=velog&logoColor=white"/>
 - Velog
   </a>
 </div>
