@@ -30,10 +30,11 @@
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </p>
-![DongMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonDongMin&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Duckcchun=anuraghazra&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Duckcchun=anuraghazra&layout=compact)
 <!-- 사용한 언어 순위 카드 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Duckchun&layout=compact&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Duckcchun&layout=compact&theme=algolia)
 <!-- GitHub Stats Card -->
-(https://github-readme-stats.vercel.app/api?username=SeungAh-Yoo99&show_icons=true&theme=tokyonight)](https://github.com/SeungAh-Yoo99/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=Duckcchun&show_icons=true&theme=tokyonight)](https://github.com/SeungAh-Yoo99/github-readme-stats)
 <!-- solved.ac 프로필 -->
 (http://mazassumnida.wtf/api/v2/generate_badge?boj=jibb21)](https://solved.ac/jibb21)
