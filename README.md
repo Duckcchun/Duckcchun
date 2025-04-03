@@ -33,6 +33,7 @@
    <br/>
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=jibb21"/>
  <br/>
+ 
   ### Framework
   <!--Flask-->
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
