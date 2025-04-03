@@ -29,10 +29,9 @@
   
   ### Solved.ac
   <!-- solved.ac 프로필 -->
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/(v2 or mini)/generate_badge?boj=jibb21))](https://solved.ac/(jibb21))
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jibb21)](https://solved.ac/jibb21">
+  <img src="http://mazassumnida.wtf/api/(v2 or mini)/generate_badge?boj=(jibb21)](https://solved.ac/(jibb21))">
 
-  ### Library
+  ### Li
   <!--PyTorch-->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
   <!--Selenium-->
