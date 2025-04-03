@@ -71,7 +71,6 @@
 <div align="center">
   <a href="https://velog.io/@duckcchun">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=flat-square&logo&logo=velog&logoColor=white"/>
-  </a>
   <a href="mailto:qasw1733@gmail.com">
    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=velog&logoColor=white"/>
   </a>
