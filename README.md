@@ -1,7 +1,7 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97](https://capsule-render.vercel.app/api?type=blur&height=266&color=gradient&text=DongMin's%20GitHub&reversal=false&textBg=false&fontColor=778899&fontSize=40&fontAlign=66&animation=twinkling&descAlign=67&descAlignY=12))
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90](https://capsule-render.vercel.app/api?type=blur&height=266&color=gradient&text=DongMin's%20GitHub&reversal=false&textBg=false&fontColor=778899&fontSize=40&fontAlign=66&animation=twinkling&descAlign=67&descAlignY=12)" />
   
 </div>
 
