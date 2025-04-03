@@ -39,6 +39,6 @@
 <!-- 사용한 언어 순위 카드 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungAh-Yoo99&layout=compact&theme=algolia)
 <!-- GitHub Stats Card -->
-[![SeungAh-Yoo99's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungAh-Yoo99&show_icons=true&theme=tokyonight)](https://github.com/SeungAh-Yoo99/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=SeungAh-Yoo99&show_icons=true&theme=tokyonight)](https://github.com/SeungAh-Yoo99/github-readme-stats)
 <!-- solved.ac 프로필 -->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jibb21)](https://solved.ac/jibb21)
+(http://mazassumnida.wtf/api/v2/generate_badge?boj=jibb21)](https://solved.ac/jibb21)
