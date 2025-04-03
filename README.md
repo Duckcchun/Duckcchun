@@ -70,9 +70,10 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://velog.io/@duckcchun">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=flat-square&logo&logo=velog&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
   <a href="mailto:qasw1733@gmail.com">
-   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=velog&logoColor=white"/>
+   <img
+      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
 
