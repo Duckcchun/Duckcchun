@@ -12,7 +12,6 @@
   #### :fire: I aim to become a AI Security Engineer.<br/>
   #### :mortar_board: Bachelor of Department of Computer Science and Engineering, Dankook University (DKU)
   <br/>
-  <br/>
   
   ## 🧱 Tech Stack
   ### Language
