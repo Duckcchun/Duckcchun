@@ -14,10 +14,6 @@
   #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
   <br/>
   <br/>
-  
- 
-  ### Solved.ac
-  <!-- solved.ac 프로필 -->
 </div>
 
 <div>
