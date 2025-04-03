@@ -26,8 +26,9 @@
   <!--CSS-->
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <br/>
+    ### Solved
   <!-- solved.ac 프로필 -->
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ysa8497)](https://solved.ac/ysa8497">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jibb21)](https://solved.ac/jibb21">
 
   ### Library
   <!--PyTorch-->
