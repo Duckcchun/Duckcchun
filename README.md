@@ -16,10 +16,7 @@
   <!--Body-->
   
   ## 👀 About Me
-  <br/>
   #### :mortar_board: Bachelor of Department of Computer Science and Engineering, Dankook University (DKU)
-  <br/>
-
   ## 🧱 Tech Stack
   ### Language
   <!--C-->
