@@ -38,7 +38,7 @@
   ### Solved.ac
   <!-- solved.ac 프로필 -->
   <img src="http://mazandi.herokuapp.com/api?handle=jibb21&theme=warm"/>
-   <br/>
+   
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=jibb21"/>
  <br/>
  
