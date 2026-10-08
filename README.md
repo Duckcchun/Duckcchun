@@ -6,7 +6,13 @@
 
 <div>
 
-  <h3 align="center"><a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Duckcchun&utm_content=farm">
+  <h3 align="center"><a href=<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Duckcchun&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Duckcchun"
+  width="600"
+  height="300"
+/>
+</a>
 <img
   src="https://render.gitanimals.org/farms/Duckcchun"
   width="600"
