@@ -21,9 +21,9 @@
 | Project | Description | Stack |
 | --- | --- | --- |
 | [편의점 좌석 찾기](https://convi-seat-finder.vercel.app/) | 편의점 좌석 정보 공유 지도 — LIKELION 학교대항전, 1인 기획·풀스택 개발 | React · TypeScript · Tailwind · Supabase · Kakao Map API |
-| 저자기호 자동 검증 도구 | 도서관 신착도서 저자기호 검수 자동화 (건당 약 30분 → 약 30초) | Web |
-| 상호대차 카드 자동 출력 도구 | 광진구 전체 사서가 사용하게 된 상호대차 카드 자동 출력 웹 도구 | Web |
-| 밥터뷰 (BabTerview) | 로컬 맛집 리뷰 웹 서비스 — 팀 프로젝트, 테크 리드 | Django · Docker |
+| [저자기호 자동 검증 도구](https://github.com/Duckcchun/Library-Automation-Tool) | 도서관 신착도서 저자기호 검수 자동화 (건당 약 30분 → 약 30초) | Web |
+| [상호대차 카드 자동 출력 도구](https://jayang-ill.vercel.app/) | 광진구 전체 사서가 사용하게 된 상호대차 카드 자동 출력 웹 도구 | Web |
+| [밥터뷰 (BabTerview)](https://local-food-review-app.vercel.app/) | 로컬 맛집 리뷰 웹 서비스 — 팀 프로젝트, 테크 리드 | Django · Docker |
 
 ## 🧱 Tech Stack
 
